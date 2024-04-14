@@ -49,7 +49,6 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'dj_rest_auth.registration',
     # local
-    'accounts.apps.AccountsConfig',
     'api.apps.ApiConfig',
 ]
 
